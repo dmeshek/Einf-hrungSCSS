@@ -1,0 +1,26 @@
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    text-align: right;
+    padding: 5px 5px;
+    margin: 10px;
+    ul{
+        list-style: none;
+        .TakeAction{
+            border: 1px solid red;
+        }
+        a{
+            text-decoration: none;
+        }
+    }
+
+}
+
+
